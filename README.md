@@ -1,32 +1,89 @@
 # 👨‍💻 Fernando José Soares Junior
 
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=7A3CFF&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Front-End;Estudando+Full+Stack;Apaixonado+por+Tecnologia+e+Programa%C3%A7%C3%A3o" />
+
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
-Olá! Me chamo **Fernando José Soares Junior** e atualmente atuo na área de **Desenvolvimento Front-End**, estudando para me tornar um desenvolvedor **Full Stack**.
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Sou apaixonado por tecnologia, programação e aprendizado contínuo. Estou sempre buscando evoluir minhas habilidades através de projetos práticos, estudos e desenvolvimento web.
+Atualmente atuo como desenvolvedor **Front-End** e estou em constante evolução para me tornar um desenvolvedor **Full Stack**.
 
-🎯 Meu principal objetivo é realizar uma transição de carreira sólida para a tecnologia, conquistando crescimento profissional e experiência na área de desenvolvimento de software.
+Sou apaixonado por tecnologia, programação e por transformar ideias em soluções reais através do código. Estou sempre buscando evoluir minhas habilidades com projetos práticos e aprendizado contínuo.
+
+🎯 **Objetivo:** Realizar minha transição de carreira, crescer na área da tecnologia e construir uma trajetória sólida como desenvolvedor.
+
+---
+
+# 🌐 Redes Sociais
+
+<div align="left">
+
+<a href="https://github.com/fernandojuniorr">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/fernandojuniorr/">
+<img src="https://img.shields.io/badge/LinkedIn-7A3CFF?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:fernandojunior12345678901@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
 
 ---
 
 # 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
+<div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> HTML5
+<table>
+<tr>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> CSS3
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="70"/><br>
+HTML5
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> JavaScript
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="70"/><br>
+CSS3
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> React
+<td align="center">
+<img src="https://skillicons.dev/icons?i=javascript" width="70"/><br>
+JavaScript
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> TypeScript
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="70"/><br>
+React
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> Git
+<td align="center">
+<img src="https://skillicons.dev/icons?i=typescript" width="70"/><br>
+TypeScript
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/> GitHub
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="70"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="70"/><br>
+GitHub
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -34,38 +91,24 @@ Sou apaixonado por tecnologia, programação e aprendizado contínuo. Estou semp
 
 # 📚 Atualmente estudando
 
-* React.js
-* TypeScript
-* Desenvolvimento Full Stack
-* APIs REST
-* Node.js
-* Boas práticas de programação
+```txt
+📘 React.js
+📘 TypeScript
+📘 Desenvolvimento Full Stack
+📘 APIs REST
+📘 Node.js
+📘 Boas práticas de programação
+```
 
 ---
 
-# 📈 Estatísticas GitHub
+# 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-
-
-# 🌎 Redes Sociais
-
-<div align="left">
-
-<a href="https://github.com/fernandojuniorr" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/fernandojuniorr/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SEU_USUARIO&theme=github_dark"/>
 
 </div>
 
@@ -73,14 +116,18 @@ Sou apaixonado por tecnologia, programação e aprendizado contínuo. Estou semp
 
 # 🎯 Objetivos
 
-* Evoluir como Desenvolvedor Full Stack
-* Construir projetos modernos e responsivos
-* Aprender novas tecnologias constantemente
-* Conquistar oportunidades na área de tecnologia
-* Compartilhar minha evolução e projetos no GitHub
+```txt
+✔ Evoluir como Desenvolvedor Full Stack
+✔ Construir projetos modernos e responsivos
+✔ Aprender novas tecnologias constantemente
+✔ Conquistar oportunidades na área da tecnologia
+✔ Compartilhar minha evolução e projetos no GitHub
+```
 
 ---
 
-<p align="center">
-🚀 "Transformando aprendizado em evolução através da programação."
-</p>
+<div align="center">
+
+### 🚀 “A disciplina de hoje é o sucesso de amanhã.”
+
+</div>
