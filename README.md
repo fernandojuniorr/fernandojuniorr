@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia, programação e por transformar ideias em soluç�
 
 ---
 
-# 🌐 Redes Sociais
+# 🌐 Entre em contato comigo:
 
 <div align="left">
 
