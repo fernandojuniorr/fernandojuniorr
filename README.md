@@ -104,21 +104,24 @@ GitHub
 
 # 📊 Estatísticas
 
-<div align="center">
+##📊 Estatísticas
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandojuniorr&theme=github_dark"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fernandojuniorr&theme=github_dark&utcOffset=-3"/>
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandojuniorr&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandojuniorr&theme=github_dark"/>
-
-</div>
+<p> 
+  <img
+      alinhar="esquerda"
+      alt="Estatísticas do GitHub"
+      altura="180"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=fernandojunior&show_icons=true&theme=tokyonight&count_private=true"
+    />
+    
+  <img
+      alinhar="esquerda"
+      alt="Estatísticas do GitHub"
+      altura="180"  
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fernandojunior&layout=compact&theme=tokyonight"
+/>
+</p>
 
 
 # 🎯 Objetivos
