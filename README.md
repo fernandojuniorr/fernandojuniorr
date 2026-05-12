@@ -106,13 +106,20 @@ GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandojuniorr&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernandojuniorr&theme=github_dark"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandojuniorr&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fernandojuniorr&theme=github_dark&utcOffset=-3"/>
 
 </div>
 
----
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernandojuniorr&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernandojuniorr&theme=github_dark"/>
+
+</div>
+
 
 # 🎯 Objetivos
 
